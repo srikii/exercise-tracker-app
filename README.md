@@ -1,2 +1,5 @@
 # exercise-tracker-app
-Basic exercise tracking app designed using MERN tech stack
+Exercise tracking app designed using MERN tech stack
+Frontend: React
+Backend: Node and Express
+Database: Mongodb
